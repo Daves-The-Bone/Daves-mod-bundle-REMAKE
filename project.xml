@@ -3,14 +3,14 @@
 	<!-- _________________________ Application Settings _________________________ -->
 	<app
 		title="FNF: Daves mod bundle" main="funkin.backend.system.Main"
-		file="daves mod bundle" packageName="com.yoshman29.codenameengine"
-		package="com.yoshman29.codenameengine"
-		version="1.2.8" company="ruthenium gangs" />
+		file="daves mod bundle" packageName="com.davesthebone.davesmodbundle"
+		package="com.davesthebone.davesmodbundle"
+		version="1.2.8" company="Team Ruthenium" />
 
 	<!--
 		CHANGE THE SAVE PATH & NAME FOR YOUR MOD HERE!
 	-->
-	<app save-path="Team Ruthenium/CodenameEngine" save-name="save-default" mod-saves="true" />
+	<app save-path="Team Ruthenium/DavesModBundle" save-name="save-default" mod-saves="true" />
 
 	<!--Switch Export with Unique ApplicationID and Icon-->
 	<set name="APP_ID" value="0x0100f6c013bbc000" />
