@@ -1,0 +1,17 @@
+{
+	"beatsPerMeasure": 4,
+	"opponentModeAllowed": true,
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"bpm": 190,
+	"difficulties": [
+		"erect"
+	],
+	"needsVoices": false,
+	"parsedColor": -16751550,
+	"displayName": "Dadbattle-ERECT",
+	"icon": "dad",
+	"name": "Dadbattle ERECT",
+	"color": "#006442",
+	"customValues": {}
+}
